@@ -14,7 +14,7 @@ For any function, parameters can be substituted with $ and the function becomes 
 ```
 my_print = print("Hello", $, end="!\n")
 
-my_print("Harry Potter") # prints "Hello Harry Potter!"
-my_print("Hermoine Granger") # prints "Hello Hermoine Granger!"
-my_print("Ron Weasley") # prints "Hello Ron Weasley!"
+my_print("Harry Potter")        # prints "Hello Harry Potter!"
+my_print("Hermoine Granger")    # prints "Hello Hermoine Granger!"
+my_print("Ron Weasley")         # prints "Hello Ron Weasley!"
 ```
